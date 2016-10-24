@@ -18,6 +18,7 @@ public class EmployeeDescription {
         mName = name;
         mImage = resource;
     }
+
     public String getName() {
         return mName;
     }
